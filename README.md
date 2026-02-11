@@ -20,4 +20,5 @@ This repository contains the official NebulaStack products.
 ### (6) Tetris:
 - Link:
 
+## About NebulaStack:
 NebulaStack is a personal IT portfolio ecosystem built around Telegram, GitHub, and documented development.
